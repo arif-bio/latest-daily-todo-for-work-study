@@ -7,3 +7,6 @@ SUN
 MON
 ---
     - done: Complete Google Tasks
+TUES
+----
+    - done: Organizing projects
