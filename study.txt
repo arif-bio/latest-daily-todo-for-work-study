@@ -1,3 +1,6 @@
 SAT
 ---
     - done: Complete Mosh git last chapter
+SUN
+---
+    - done: Complete GitHub
