@@ -4,3 +4,6 @@ SAT
 SUN
 ---
     - done: Listen Surah Lahab tafsir
+MON
+---
+    - Complete Google Tasks
