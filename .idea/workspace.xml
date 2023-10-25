@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92ff4961-46ac-4720-a4b9-d38bda74faa9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="NO_COMMIT" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+    <option name="OPTIONS">
+      <set>
+        <option value="INTERACTIVE" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="study" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="e66fd4cea1c6b24afba822c2cee93640bc3d31c8" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2X9HtjQgTi8xzcDMsJ9Tbq1U5Gz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Branch Context group&quot;: &quot;Branch context switched&quot;,
+    &quot;Notification.DoNotAsk-Branch Context group&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.laravel-idea.search-composer-json&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="master" />
+    </force-push-targets>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92ff4961-46ac-4720-a4b9-d38bda74faa9" name="Changes" comment="" />
+      <created>1698034592808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698034592808</updated>
+      <workItem from="1698034596508" duration="4067000" />
+      <workItem from="1698096639479" duration="19332000" />
+      <workItem from="1698192650404" duration="6943000" />
+      <workItem from="1698207102626" duration="3245000" />
+    </task>
+    <task id="LOCAL-00001" summary="Daily todo start">
+      <option name="closed" value="true" />
+      <created>1698034671428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698034671428</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sat study">
+      <option name="closed" value="true" />
+      <created>1698034917261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698034917261</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Sat study">
+      <option name="closed" value="true" />
+      <created>1698034998961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698034998961</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Sat work">
+      <option name="closed" value="true" />
+      <created>1698035025720</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698035025720</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Sun todo">
+      <option name="closed" value="true" />
+      <created>1698035094714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698035094714</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Sun study">
+      <option name="closed" value="true" />
+      <created>1698035119979</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698035119979</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Sun work">
+      <option name="closed" value="true" />
+      <created>1698035152979</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698035152979</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sun study fix typo">
+      <option name="closed" value="true" />
+      <created>1698035187539</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698035187539</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Monday todo">
+      <option name="closed" value="true" />
+      <created>1698050670873</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698050670873</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Monday study">
+      <option name="closed" value="true" />
+      <created>1698050705736</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698050705736</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Joy update was false">
+      <option name="closed" value="true" />
+      <created>1698099111682</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698099111682</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Joy update was false">
+      <option name="closed" value="true" />
+      <created>1698105310580</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698105310580</updated>
+    </task>
+    <task id="LOCAL-00013" summary="local changes">
+      <option name="closed" value="true" />
+      <created>1698105372293</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698105372293</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Test commit">
+      <option name="closed" value="true" />
+      <created>1698105437137</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698105437137</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Monday todo">
+      <option name="closed" value="true" />
+      <created>1698109736122</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698109736122</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Ckeck test update in GitHub">
+      <option name="closed" value="true" />
+      <created>1698110074876</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1698110074877</updated>
+    </task>
+    <task id="LOCAL-00017" summary="test changes">
+      <option name="closed" value="true" />
+      <created>1698110558539</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1698110558540</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Test changes">
+      <option name="closed" value="true" />
+      <created>1698110796294</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1698110796294</updated>
+    </task>
+    <task id="LOCAL-00019" summary="afdasdf">
+      <option name="closed" value="true" />
+      <created>1698112357287</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1698112357287</updated>
+    </task>
+    <task id="LOCAL-00020" summary="test cm">
+      <option name="closed" value="true" />
+      <created>1698113239078</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1698113239078</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Sun todo">
+      <option name="closed" value="true" />
+      <created>1698113902983</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1698113902983</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Sun todo">
+      <option name="closed" value="true" />
+      <created>1698113955231</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1698113955231</updated>
+    </task>
+    <task id="LOCAL-00023" summary="new tag added">
+      <option name="closed" value="true" />
+      <created>1698117763567</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1698117763567</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Squashed commit of the following:&#10;&#10;commit 6d848be1ac1d6598d3386f4143f854e9f0b2419e&#10;Author: Joy &lt;123267454+joy-test-account@users.noreply.github.com&gt;&#10;Date:   Tue Oct 24 08:25:50 2023 +0600&#10;&#10;    Create joy file to master">
+      <option name="closed" value="true" />
+      <created>1698119676673</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1698119676673</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Mon todos">
+      <option name="closed" value="true" />
+      <created>1698202930292</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1698202930292</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Mon todos">
+      <option name="closed" value="true" />
+      <created>1698203192928</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1698203192928</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fixup! Sat study">
+      <option name="closed" value="true" />
+      <created>1698204978793</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1698204978793</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fixup! Sat todo">
+      <option name="closed" value="true" />
+      <created>1698205076084</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1698205076084</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fixup! Sun todo">
+      <option name="closed" value="true" />
+      <created>1698207366490</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1698207366490</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fixup! Sun todo">
+      <option name="closed" value="true" />
+      <created>1698207427364</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1698207427364</updated>
+    </task>
+    <task id="LOCAL-00031" summary="fixup! Sun todo">
+      <option name="closed" value="true" />
+      <created>1698207568963</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1698207568963</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Mon todo">
+      <option name="closed" value="true" />
+      <created>1698207710448</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1698207710448</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Mon todo">
+      <option name="closed" value="true" />
+      <created>1698207807062</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1698207807062</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fixup! Mon todo">
+      <option name="closed" value="true" />
+      <created>1698207922910</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1698207922910</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fixup! Sun todo">
+      <option name="closed" value="true" />
+      <created>1698208073377</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1698208073377</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Hi there">
+      <option name="closed" value="true" />
+      <created>1698209494473</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1698209494473</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Sat study">
+      <option name="closed" value="true" />
+      <created>1698209587217</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1698209587217</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Sun study">
+      <option name="closed" value="true" />
+      <created>1698209736256</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1698209736256</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Daily todo start">
+      <option name="closed" value="true" />
+      <created>1698209972203</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1698209972203</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Daily work and study todo Init">
+      <option name="closed" value="true" />
+      <created>1698210060611</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1698210060611</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Daily work and study todo Init">
+      <option name="closed" value="true" />
+      <created>1698210091639</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1698210091639</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Sat study">
+      <option name="closed" value="true" />
+      <created>1698210207342</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1698210207342</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test commit" />
+    <MESSAGE value="Monday todo" />
+    <MESSAGE value="Ckeck test update in GitHub" />
+    <MESSAGE value="test changes" />
+    <MESSAGE value="Test changes" />
+    <MESSAGE value="afdasdf" />
+    <MESSAGE value="test cm" />
+    <MESSAGE value="test commit" />
+    <MESSAGE value="Sun todo" />
+    <MESSAGE value="Squashed commit of the following:&#10;&#10;commit 6d848be1ac1d6598d3386f4143f854e9f0b2419e&#10;Author: Joy &lt;123267454+joy-test-account@users.noreply.github.com&gt;&#10;Date:   Tue Oct 24 08:25:50 2023 +0600&#10;&#10;    Create joy file to master&#10;" />
+    <MESSAGE value="new tag added" />
+    <MESSAGE value="Squashed commit of the following:&#10;&#10;commit 6d848be1ac1d6598d3386f4143f854e9f0b2419e&#10;Author: Joy &lt;123267454+joy-test-account@users.noreply.github.com&gt;&#10;Date:   Tue Oct 24 08:25:50 2023 +0600&#10;&#10;    Create joy file to master" />
+    <MESSAGE value="Sun todo" />
+    <MESSAGE value="fixup! Sat study" />
+    <MESSAGE value="fixup! Sat todo" />
+    <MESSAGE value="Mon todo" />
+    <MESSAGE value="Mon todo" />
+    <MESSAGE value="fixup! Mon todo" />
+    <MESSAGE value="fixup! Sun todo" />
+    <MESSAGE value="Hi there" />
+    <MESSAGE value="Sun study" />
+    <MESSAGE value="Daily work and study todo INIT" />
+    <MESSAGE value="Daily todo start" />
+    <MESSAGE value="Daily work and study todo Init" />
+    <MESSAGE value="Sat study" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sat study" />
+  </component>
+</project>
