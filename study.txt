@@ -4,3 +4,6 @@ SAT
 SUN
 ---
     - done: Complete GitHub
+MON
+---
+    - done: Complete Google Tasks

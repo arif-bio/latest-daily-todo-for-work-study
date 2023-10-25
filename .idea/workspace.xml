@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92ff4961-46ac-4720-a4b9-d38bda74faa9" name="Changes" comment="" />
+    <list default="true" id="92ff4961-46ac-4720-a4b9-d38bda74faa9" name="Changes" comment="Mon todo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -438,7 +438,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698210207342</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Sun todo">
+      <option name="closed" value="true" />
+      <created>1698225046227</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1698225046227</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Mon todo">
+      <option name="closed" value="true" />
+      <created>1698225184344</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1698225184344</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,15 +495,11 @@
     <MESSAGE value="afdasdf" />
     <MESSAGE value="test cm" />
     <MESSAGE value="test commit" />
-    <MESSAGE value="Sun todo" />
     <MESSAGE value="Squashed commit of the following:&#10;&#10;commit 6d848be1ac1d6598d3386f4143f854e9f0b2419e&#10;Author: Joy &lt;123267454+joy-test-account@users.noreply.github.com&gt;&#10;Date:   Tue Oct 24 08:25:50 2023 +0600&#10;&#10;    Create joy file to master&#10;" />
     <MESSAGE value="new tag added" />
     <MESSAGE value="Squashed commit of the following:&#10;&#10;commit 6d848be1ac1d6598d3386f4143f854e9f0b2419e&#10;Author: Joy &lt;123267454+joy-test-account@users.noreply.github.com&gt;&#10;Date:   Tue Oct 24 08:25:50 2023 +0600&#10;&#10;    Create joy file to master" />
-    <MESSAGE value="Sun todo" />
     <MESSAGE value="fixup! Sat study" />
     <MESSAGE value="fixup! Sat todo" />
-    <MESSAGE value="Mon todo" />
-    <MESSAGE value="Mon todo" />
     <MESSAGE value="fixup! Mon todo" />
     <MESSAGE value="fixup! Sun todo" />
     <MESSAGE value="Hi there" />
@@ -496,6 +508,10 @@
     <MESSAGE value="Daily todo start" />
     <MESSAGE value="Daily work and study todo Init" />
     <MESSAGE value="Sat study" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sat study" />
+    <MESSAGE value="Sun todo" />
+    <MESSAGE value="Sun todo" />
+    <MESSAGE value="Mon todo" />
+    <MESSAGE value="Mon todo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mon todo" />
   </component>
 </project>
