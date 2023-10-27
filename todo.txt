@@ -12,3 +12,6 @@ TUES
     Organizing projects
 
     Master commit
+
+    Study commit 1
+    Study commit 2
