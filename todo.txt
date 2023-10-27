@@ -10,3 +10,5 @@ MON
 TUES
 ----
     Organizing projects
+
+    Study commit 1
