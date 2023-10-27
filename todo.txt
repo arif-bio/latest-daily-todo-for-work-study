@@ -1,1 +1,12 @@
-I am from study branch, modifying todo.txt
+SAT
+---
+    Complete Mosh git last chapter
+SUN
+---
+    Complete GitHub
+MON
+---
+    Complete Google Tasks
+TUES
+----
+    Organizing projects
