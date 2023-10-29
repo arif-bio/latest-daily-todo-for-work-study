@@ -10,8 +10,5 @@ MON
 TUES
 ----
     Organizing projects
-
-    Master commit
-
-    Study commit 1
-    Study commit 2
+HI there
+Version 0.1.1

@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92ff4961-46ac-4720-a4b9-d38bda74faa9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/todo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +104,7 @@
       <workItem from="1698096639479" duration="19332000" />
       <workItem from="1698192650404" duration="6943000" />
       <workItem from="1698207102626" duration="3245000" />
+      <workItem from="1698542804560" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="Daily todo start">
       <option name="closed" value="true" />
