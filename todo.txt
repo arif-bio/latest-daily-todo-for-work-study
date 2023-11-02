@@ -14,5 +14,3 @@ HI there
 Version 0.1.1
     Study commit 1
     Study commit 2
-
-Joy make changes
