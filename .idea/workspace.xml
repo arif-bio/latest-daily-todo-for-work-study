@@ -83,25 +83,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Notification.DisplayName-DoNotAsk-Branch Context group&quot;: &quot;Branch context switched&quot;,
-    &quot;Notification.DoNotAsk-Branch Context group&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.laravel-idea.search-composer-json&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Akash/Desktop/daily-todo-for-work-study&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Branch Context group": "Branch context switched",
+    "Notification.DoNotAsk-Branch Context group": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.laravel-idea.search-composer-json": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Akash/Desktop/daily-todo-for-work-study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vcs.patch.to.clipboard": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="master" />
@@ -119,14 +120,8 @@
       <workItem from="1698096639479" duration="19332000" />
       <workItem from="1698192650404" duration="6943000" />
       <workItem from="1698207102626" duration="3245000" />
-    </task>
-    <task id="LOCAL-00001" summary="Daily todo start">
-      <option name="closed" value="true" />
-      <created>1698034671428</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1698034671428</updated>
+      <workItem from="1698542804560" duration="601000" />
+      <workItem from="1698549948637" duration="2618000" />
     </task>
     <task id="LOCAL-00002" summary="Sat study">
       <option name="closed" value="true" />
@@ -504,11 +499,38 @@
       <option name="project" value="LOCAL" />
       <updated>1698372497318</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Version 0.1.1">
+      <option name="closed" value="true" />
+      <created>1698550212951</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1698550212951</updated>
+    </task>
+    <task id="LOCAL-00050" summary="After version">
+      <option name="closed" value="true" />
+      <created>1698550357529</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1698550357529</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="RECENT_FILTERS">
@@ -549,8 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test changes" />
-    <MESSAGE value="afdasdf" />
     <MESSAGE value="test cm" />
     <MESSAGE value="test commit" />
     <MESSAGE value="Squashed commit of the following:&#10;&#10;commit 6d848be1ac1d6598d3386f4143f854e9f0b2419e&#10;Author: Joy &lt;123267454+joy-test-account@users.noreply.github.com&gt;&#10;Date:   Tue Oct 24 08:25:50 2023 +0600&#10;&#10;    Create joy file to master&#10;" />
@@ -574,6 +594,8 @@
     <MESSAGE value="study branch last commit" />
     <MESSAGE value="master branch last commit" />
     <MESSAGE value="study branch lasr second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="study branch lasr second commit" />
+    <MESSAGE value="Version 0.1.1" />
+    <MESSAGE value="After version" />
+    <option name="LAST_COMMIT_MESSAGE" value="After version" />
   </component>
 </project>
