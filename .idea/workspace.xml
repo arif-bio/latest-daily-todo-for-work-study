@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92ff4961-46ac-4720-a4b9-d38bda74faa9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/todo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study.txt" beforeDir="false" afterPath="$PROJECT_DIR$/study.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +40,28 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="study" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "arif-bio"
+  }
+}]]></component>
   <component name="GitRewordedCommitMessages">
     <option name="onto" value="e66fd4cea1c6b24afba822c2cee93640bc3d31c8" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="29eadaae-2f56-4585-9c65-bdd20b0cca3a" />
+        <option name="url" value="https://github.com/arif-bio/latest-daily-todo-for-work-study.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
@@ -60,6 +74,7 @@
 }</component>
   <component name="ProjectId" id="2X9HtjQgTi8xzcDMsJ9Tbq1U5Gz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
