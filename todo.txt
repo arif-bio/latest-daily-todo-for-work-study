@@ -10,9 +10,7 @@ MON
 TUES
 ----
     Organizing projects
-HI there
 
+    Study commit 1
 
-oreigin uppdate 2
-originupdate 3
-
+    new commit
